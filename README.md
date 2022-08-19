@@ -1,20 +1,20 @@
-<img align="right" alt="GIF"  width="350px" src="https://github.com/Sourav59580/Sourav59580/blob/master/intro.gif?raw=true" />
+<img align="right" alt="GIF"  width="350px" src="https://github.com/SubasishMula2001/blob/master/intro.gif?raw=true" />
 
-### Hi all 👋 I'm Sourav 
-![](https://komarev.com/ghpvc/?username=Sourav59580)
+### Hi all 👋 I'm Subasish 
+![](https://komarev.com/ghpvc/?username=SubasishMula2001)
 
-<a href="https://linkedin.com/in/sourav-santra-a68905199/">
-  <img align="left" alt="Sourav's LinkdeIN" width="30px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
+<a href="https://www.linkedin.com/in/subasishmula//">
+  <img align="left" alt="Subasish's LinkdeIN" width="30px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
 </a>
-<a href="https://github.com/Sourav59580">
-  <img align="left" alt="Sourav's Github" width="27px" height="20px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+<a href="https://github.com/SubasishMula2001">
+  <img align="left" alt="Subasish's Github" width="27px" height="20px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 </a>
 
 <br>
 <br>
 
-- __I am a Full Stack Web Developer and Graphic Designer__
-- I am also a programmer and Technical Writer !!
+- __I am a Full Stack Web Developer
+- I am also a programmer  !!
 - Opensource Enthusiast
 - Trying hands on Flutter
 - 🌱 I’m currently learning
@@ -30,7 +30,7 @@
 #### Cloud computing technology:
 <img src="https://img.shields.io/badge/aws-%ca64564.svg?&style=for-the-badge&logo=amazon-aws&color=orange&logoColor=white" />    &nbsp; &nbsp;
 #### Development tools:
-<img src="https://img.shields.io/badge/VS CODE-%ca64564.svg?&style=for-the-badge&logo=visual-studio&color=blueviolet&logoColor=white" />  &nbsp; &nbsp;<img src="https://img.shields.io/badge/figma-%ca64564.svg?&style=for-the-badge&logo=figma&color=deeppink&logoColor=white" />    &nbsp; &nbsp; <img src="https://img.shields.io/badge/Android Studio-%ca64564.svg?&style=for-the-badge&logo=android-studio&color=success&logoColor=white" />    &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/VS CODE-%ca64564.svg?&style=for-the-badge&logo=visual-studio&color=blueviolet&logoColor=white" />  &nbsp;     &nbsp;  &nbsp; &nbsp;
 
 #### Version Control:
 <img src="https://img.shields.io/badge/github-%ca64564.svg?&style=for-the-badge&logo=github&color=black&logoColor=white" />
@@ -38,12 +38,12 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav59580&show_icons=true&hide_border=false&layout=compact)![Github stats](https://github-readme-stats.vercel.app/api?username=Sourav59580&show_icons=true&hide_border=false)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubasishMula2001&show_icons=true&hide_border=false&layout=compact)![Github stats](https://github-readme-stats.vercel.app/api?username=SubasishMula2001&show_icons=true&hide_border=false)    
 
 
 
 <!--
-**Sourav59580/Sourav59580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SubasishMula2001/SubasishMula2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
