@@ -1,4 +1,4 @@
-<img align="right" alt="GIF"  width="350px" src="https://github.com/SubasishMula2001/blob/master/intro.gif?raw=true" />
+<img align="right" alt="GIF"  width="350px" src="https://github.com/SubasishMula2001/SubasishMula2001/blob/main/intro.gif?raw=true" />
 
 ### Hi all 👋 I'm Subasish 
 ![](https://komarev.com/ghpvc/?username=SubasishMula2001)
@@ -13,7 +13,7 @@
 <br>
 <br>
 
-- __I am a Full Stack Web Developer
+- I am a Full Stack Web Developer
 - I am also a programmer  !!
 - Opensource Enthusiast
 - Trying hands on Flutter
