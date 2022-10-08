@@ -16,7 +16,6 @@
 - I am a Full Stack Web Developer
 - I am also a programmer  !!
 - Opensource Enthusiast
-- Trying hands on Flutter
 - 🌱 I’m currently learning
 
 ## Technical Skills
