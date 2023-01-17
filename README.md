@@ -1,8 +1,9 @@
 <img align="right" alt="GIF"  width="350px" src="https://github.com/SubasishMula2001/SubasishMula2001/blob/main/intro.gif?raw=true" />
 
 ### Hi all 👋 I'm Subasish 
-https://subasishmula.live
 ![](https://komarev.com/ghpvc/?username=SubasishMula2001)
+https://subasishmula.live
+
 
 <a href="https://www.linkedin.com/in/subasishmula//">
   <img align="left" alt="Subasish's LinkdeIN" width="30px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
