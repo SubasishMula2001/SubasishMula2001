@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" height="250px"  width="350px" src="https://github.com/SubasishMula2001/SubasishMula2001/blob/main/intro.gif?raw=true" />
+<img align="right" alt="GIF" height="250px"  width="450px" src="https://github.com/SubasishMula2001/SubasishMula2001/blob/main/intro.gif?raw=true" />
 
 ### Hi all 👋 I'm Subasish 
 ![](https://komarev.com/ghpvc/?username=SubasishMula2001)
