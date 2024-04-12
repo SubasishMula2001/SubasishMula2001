@@ -9,9 +9,7 @@ https://subasishmula.me
 <a href="https://www.linkedin.com/in/subasishmula//">
   <img align="left" alt="Subasish's LinkdeIN" width="30px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
 </a>
-<a href="https://github.com/SubasishMula2001">
-  <img align="left" alt="Subasish's Github" width="27px" height="20px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
-</a>
+
 
 <br>
 <br>
