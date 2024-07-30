@@ -3,7 +3,7 @@
 ### Hi all 👋 I'm Subasish 
 ![](https://komarev.com/ghpvc/?username=SubasishMula2001)
 
-https://subasishmula.me
+https://subasish.netlify.app
 
 
 <a href="https://www.linkedin.com/in/subasishmula//">
