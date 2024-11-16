@@ -1,77 +1,71 @@
 <img align="right" alt="GIF" height="250px"  width="450px" src="https://github.com/SubasishMula2001/SubasishMula2001/blob/main/intro.gif?raw=true" />
 
-### Hi all 👋 I'm Subasish 
-![](https://komarev.com/ghpvc/?username=SubasishMula2001)
+# Hi there 👋 I'm Subasish  
+![](https://komarev.com/ghpvc/?username=SubasishMula2001&color=blue&style=flat-square)
 
-https://subasish.netlify.app
+🌐 **[Visit My Portfolio](https://subasish.netlify.app)**  
+📫 **[Reach Out on LinkedIn](https://www.linkedin.com/in/subasishmula//)**  
 
+---
 
-<a href="https://www.linkedin.com/in/subasishmula//">
-  <img align="left" alt="Subasish's LinkdeIN" width="30px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
-</a>
+## 👨‍💻 About Me
+- 🌟 A passionate **Full Stack Web Developer**.
+- 🌱 Currently enhancing my skills in **MERN Stack**.
+- 💬 Ask me about **Java**, **Python**, or **Web Development**.
 
+---
 
-<br>
-<br>
+## 🛠️ Technical Skills
 
-- I am a Full Stack Web Developer
-- 🌱 I’m currently learning
+### 🖥️ Programming Languages:
+<img src="https://img.shields.io/badge/Java-%23FCC624.svg?&style=for-the-badge&logo=java&logoColor=white" /> 
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
 
-## Technical Skills
-#### Languages: 
-<img src="https://img.shields.io/badge/java-%23FCC624.svg?&style=for-the-badge&logo=java&logoColor=white" />    &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/C++-%ca64564.svg?&style=for-the-badge&logo=C&logoColor=white" />    &nbsp; 
- <img src="https://img.shields.io/badge/Python-%23FCC624.svg?&style=for-the-badge&logo=Python&logoColor=white" />    &nbsp; 
- 
-#### Development:
-<img src="https://img.shields.io/badge/html-%ca64564.svg?&style=for-the-badge&logo=html5&color=orange&logoColor=white" />    &nbsp; &nbsp;<img src="https://img.shields.io/badge/css-%2320BEFF.svg?&style=for-the-badge&logo=css3&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23FCC624.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp; <img src="https://img.shields.io/badge/jQuery-%233776AB.svg?&style=for-the-badge&logo=jQuery&logoColor=white" />  &nbsp; &nbsp;<img src="https://img.shields.io/badge/bootstrap-%563D7C.svg?&style=for-the-badge&logo=bootstrap&color=navy&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" /> &nbsp;  &nbsp;
+### 🌐 Frontend Development:
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-<img src="https://img.shields.io/badge/MERN-%2320BEFF.svg?&style=for-the-badge&logo=MERN-&logoColor=white" /> 
+### ⚙️ Backend Development:
+<img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 
-   &nbsp; &nbsp;
-   
-#### Database:
-<img src="https://img.shields.io/badge/mysql-%ca64564.svg?&style=for-the-badge&logo=mysql&color=orange&logoColor=white" />    &nbsp; &nbsp;<img src="https://img.shields.io/badge/mongodb-%ca64564.svg?&style=for-the-badge&logo=mongodb&color=basil&logoColor=white" />    &nbsp; &nbsp;
-<img src="https://img.shields.io/badge/oracle21c-%23FCC624.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> &nbsp; &nbsp;
+### 🛢️ Databases:
+<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle21c-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 
-#### Cloud computing technology:
-<img src="https://img.shields.io/badge/aws-%ca64564.svg?&style=for-the-badge&logo=amazon-aws&color=orange&logoColor=white" />    &nbsp; &nbsp;
-#### Development tools:
-<img src="https://img.shields.io/badge/Sublime Text 3-%ca64564.svg?&style=for-the-badge&logo=visual-studio&color=blueviolet&logoColor=white" />  &nbsp;     &nbsp;  &nbsp; &nbsp;
+### ☁️ Cloud & Tools:
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Sublime Text 3-%235B5B5B.svg?&style=for-the-badge&logo=sublime-text&logoColor=orange" />
+<img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 
-#### Version Control:
-<img src="https://img.shields.io/badge/github-%ca64564.svg?&style=for-the-badge&logo=github&color=black&logoColor=white" />
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+## 📊 GitHub Stats & Contributions
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubasishMula2001&show_icons=true&hide_border=false&layout=compact)![Github stats](https://github-readme-stats.vercel.app/api?username=SubasishMula2001&show_icons=true&hide_border=false)    
-
-
-## GitHub Overview
-
-| GitHub Stats | Top Languages |
-|--------------|---------------|
+| **GitHub Stats**                                                                                              | **Top Languages**                                                                                      |
+|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubasishMula2001&show_icons=true&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubasishMula2001&layout=compact&hide_border=false) |
-
-### My Contributions 🏆
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubasishMula2001&theme=default)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SubasishMula2001&margin-w=15&margin-h=15)
 
+---
 
+## 🚀 Connect With Me
+
+<p align="center">
+  <a href="https://subasish.netlify.app"><img src="https://img.shields.io/badge/Website-%23181717.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/subasishmula//"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:subasishmula@example.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
 
 <!--
 **SubasishMula2001/SubasishMula2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
