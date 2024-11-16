@@ -48,6 +48,18 @@ https://subasish.netlify.app
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubasishMula2001&show_icons=true&hide_border=false&layout=compact)![Github stats](https://github-readme-stats.vercel.app/api?username=SubasishMula2001&show_icons=true&hide_border=false)    
 
 
+## GitHub Overview
+
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubasishMula2001&show_icons=true&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubasishMula2001&layout=compact&hide_border=false) |
+
+### My Contributions 🏆
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubasishMula2001&theme=default)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SubasishMula2001&margin-w=15&margin-h=15)
+
+
 
 <!--
 **SubasishMula2001/SubasishMula2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
