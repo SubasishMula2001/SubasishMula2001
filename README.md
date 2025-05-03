@@ -1,8 +1,8 @@
 <img align="right" alt="GIF" height="250px"  width="450px" src="https://github.com/SubasishMula2001/SubasishMula2001/blob/main/intro.gif?raw=true" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Developer;+Machine+Learning+;Deep+Learning)](https://git.io/typing-svg)
 
 # Hi there 👋 I'm Subasish  
 ![](https://komarev.com/ghpvc/?username=SubasishMula2001&color=blue&style=flat-square)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Developer;+Machine+Learning+;Deep+Learning)](https://git.io/typing-svg)
 🌐 **[Visit My Portfolio](https://subasish.netlify.app)**  
 📫 **[Reach Out on LinkedIn](https://www.linkedin.com/in/subasishmula//)**  
 
