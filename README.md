@@ -2,6 +2,7 @@
 
 # Hi there 👋 I'm Subasish  
 ![](https://komarev.com/ghpvc/?username=SubasishMula2001&color=blue&style=flat-square)
+https://readme-typing-svg.demolab.com/demo/?lines=FullStack+Developer;+Machine+Learning+;Deep+Learning
 
 🌐 **[Visit My Portfolio](https://subasish.netlify.app)**  
 📫 **[Reach Out on LinkedIn](https://www.linkedin.com/in/subasishmula//)**  
